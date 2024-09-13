@@ -1,4 +1,4 @@
-package rowmapper;
+package com.yijung.springbootmall.rowmapper;
 
 import com.yijung.springbootmall.constant.ProductCategory;
 import com.yijung.springbootmall.model.Product;

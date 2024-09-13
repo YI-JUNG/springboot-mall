@@ -5,7 +5,7 @@ import com.yijung.springbootmall.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Component;
-import rowmapper.ProductRowMapper;
+import com.yijung.springbootmall.rowmapper.ProductRowMapper;
 
 import java.util.HashMap;
 import java.util.List;
